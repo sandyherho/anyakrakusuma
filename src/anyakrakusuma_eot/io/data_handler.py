@@ -178,7 +178,7 @@ class DataHandler:
             
             nc.Conventions = "CF-1.8"
             nc.title = f"Schrödinger Bridge: {metadata.get('scenario_name', 'unknown')}"
-            nc.institution = "WCPL ITB"
+            nc.institution = "FITB ITB"
             nc.license = "MIT"
             nc.history = f"Created {datetime.now().isoformat()}"
         

@@ -6,7 +6,7 @@ log-domain Sinkhorn-Knopp algorithm with Numba acceleration.
 """
 
 __version__ = "0.0.1"
-__author__ = "Sandy H. S. Herho, Faiz R. Fajary, Nurjanna J. Trilaksono, Rusmawan Suwarman, Dasapta E. Irawan"
+__author__ = "Sandy H. S. Herho, Iwan P. Anwar, Faruq Khadami, Rusmawan Suwarman, Dasapta E. Irawan"
 __license__ = "MIT"
 
 from .core.solver import SchrodingerBridgeSolver
