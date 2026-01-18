@@ -18,7 +18,7 @@
 > The nomenclature `anyakrakusuma` is directly derived from the regnal titulature of **Sultan Agung of Mataram** (r. 1613–1645), the third and most formidable ruler of the Mataram Sultanate in Java. Born as **Raden Mas Jatmika** (also known as *Raden Mas Rangsang*), he initially adopted the title **Susuhunan Anyakrakusuma** (or *Prabu Pandita Anyakrakusuma*) upon his accession in 1613, a period marked by his aggressive consolidation of power across Central and East Java. His reign is historically distinguished by his staunch military campaigns against the Dutch East India Company (VOC) in Batavia (1628–1629) and his cultural synthesis of Javanese and Islamic traditions, most notably the creation of the Javanese calendar. In 1641, following an investiture by the envoy of Sharif Zaid ibnu Muhsin Al Hasyimi of Mecca, he consecrated his authority with the supreme title **Sultan Abdullah Muhammad Maulana Matarani al-Jawi**, yet he remains immortalized in Javanese historiography by his syncretic honorific: **Sultan Agung Adi Prabu Anyakrakusuma Senapati ing Ngalaga Abdurrahman Sayyidin Panatagama Khalifatullah Tanah Jawi**, identifying him as the "Great Sultan," the supreme ruler, and the commander of the faithful in the land of Java.
 
 <p align="center">
-  <img src="https://github.com/sandyherho/anyakrakusuma/blob/main/.assets/anim.gif" alt="stochastic-bridge" width="700">
+  <img src="https://github.com/sandyherho/anyakrakusuma/blob/main/.assets/anim.gif" alt="stochastic-bridge" width="500">
 </p>
 
 ## Overview
