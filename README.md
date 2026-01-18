@@ -1,6 +1,6 @@
 # `anyakrakusuma`: 2D Schrödinger Bridge Solver via Entropic Optimal Transport
 
-
+[![DOI](https://zenodo.org/badge/1136688443.svg)](https://doi.org/10.5281/zenodo.18287395)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyPI](https://img.shields.io/pypi/v/anyakrakusuma.svg)](https://pypi.org/project/anyakrakusuma/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
