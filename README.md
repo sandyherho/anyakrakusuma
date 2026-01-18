@@ -13,6 +13,10 @@
 [![Pillow](https://img.shields.io/badge/Pillow-%23000000.svg)](https://python-pillow.org/)
 [![tqdm](https://img.shields.io/badge/tqdm-%23FFC107.svg)](https://tqdm.github.io/)
 
+
+> The nomenclature `anyakrakusuma` is directly derived from the regnal titulature of **Sultan Agung of Mataram** (r. 1613–1645), the third and most formidable ruler of the Mataram Sultanate in Java. Born as **Raden Mas Jatmika** (also known as *Raden Mas Rangsang*), he initially adopted the title **Susuhunan Anyakrakusuma** (or *Prabu Pandita Anyakrakusuma*) upon his accession in 1613, a period marked by his aggressive consolidation of power across Central and East Java. His reign is historically distinguished by his staunch military campaigns against the Dutch East India Company (VOC) in Batavia (1628–1629) and his cultural synthesis of Javanese and Islamic traditions, most notably the creation of the Javanese calendar. In 1641, following an investiture by the envoy of Sharif Zaid ibnu Muhsin Al Hasyimi of Mecca, he consecrated his authority with the supreme title **Sultan Abdullah Muhammad Maulana Matarani al-Jawi**, yet he remains immortalized in Javanese historiography by his syncretic honorific: **Sultan Agung Adi Prabu Anyakrakusuma Senapati ing Ngalaga Abdurrahman Sayyidin Panatagama Khalifatullah Tanah Jawi**, identifying him as the "Great Sultan," the supreme ruler, and the commander of the faithful in the land of Java.
+
+
 ## Overview
 
 `anyakrakusuma` is a high-performance Python solver for the **Schrödinger Bridge Problem (SBP)** via **Entropic Optimal Transport (EOT)**. The Schrödinger Bridge computes the most likely stochastic evolution between two probability distributions, combining the geometric structure of optimal transport with the diffusive dynamics of Brownian motion.
