@@ -258,7 +258,7 @@ If you use this software in your study, please cite:
 
 ## Authors
 
-- Sandy H. S. Herho
+- Sandy H. S. Herho (sandy.herho@ronininstitute.org)
 - Faiz R. Fajary
 - Nurjanna J. Trilaksono
 - Rusmawan Suwarman
