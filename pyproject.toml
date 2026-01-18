@@ -4,8 +4,8 @@ version = "0.0.1"
 description = "2D Schrödinger Bridge Solver via Entropic Optimal Transport with Log-Domain Sinkhorn"
 authors = [
     "Sandy H. S. Herho",
-    "Faiz R. Fajary",
-    "Nurjanna J. Trilaksono",
+    "Iwan P. Anwar",
+    "Faruq Khadami",
     "Rusmawan Suwarman",
     "Dasapta E. Irawan"
 ]
