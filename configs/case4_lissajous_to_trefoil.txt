@@ -1,0 +1,41 @@
+# Case 4: Lissajous Curve to Trefoil Knot
+# =======================================
+# Complex curve morphing: different parametric curves
+# Source: Lissajous curve (3:2 frequency ratio)
+# Target: Trefoil knot 2D projection
+# Insight: Most complex transport, tests algorithm robustness
+
+scenario_name = Case 4 - Lissajous to Trefoil
+source_type = lissajous
+target_type = trefoil
+
+# Distribution parameters
+n_particles = 1000
+lissajous_a = 3
+lissajous_b = 2
+lissajous_delta = 1.5708
+scale_factor = 1.5
+
+# Sinkhorn parameters
+epsilon = 0.04
+max_iter = 2000
+tol = 1e-9
+
+# Output settings
+n_cores = 0
+output_dir = outputs
+save_netcdf = true
+save_csv = true
+save_animation = true
+save_diagnostics = true
+
+# Animation settings
+n_frames = 150
+fps = 30
+dpi = 150
+colormap = twilight
+marker_size = 8
+alpha = 0.8
+
+# Random seed for reproducibility
+seed = 42

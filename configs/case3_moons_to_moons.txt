@@ -1,0 +1,40 @@
+# Case 3: Two Moons to Two Moons (Rotated)
+# ========================================
+# Symmetric interchange: same shape, different orientation
+# Source: Two interleaving crescents (standard)
+# Target: Two interleaving crescents (rotated 90°)
+# Insight: Measures transport for symmetric rotation/permutation
+
+scenario_name = Case 3 - Moons to Moons Rotated
+source_type = two_moons
+target_type = two_moons_rotated
+
+# Distribution parameters
+n_particles = 1000
+source_noise = 0.05
+target_noise = 0.05
+rotation_angle = 90.0
+
+# Sinkhorn parameters
+epsilon = 0.03
+max_iter = 2000
+tol = 1e-9
+
+# Output settings
+n_cores = 0
+output_dir = outputs
+save_netcdf = true
+save_csv = true
+save_animation = true
+save_diagnostics = true
+
+# Animation settings
+n_frames = 120
+fps = 30
+dpi = 150
+colormap = inferno
+marker_size = 8
+alpha = 0.8
+
+# Random seed for reproducibility
+seed = 42

@@ -1,0 +1,41 @@
+# Case 2: Spiral to Gaussian Mixture
+# ===================================
+# Topology dissolution: continuous curve to discrete clusters
+# Source: Archimedean spiral (2 turns)
+# Target: 4-component Gaussian mixture
+# Insight: Measures transport when topology fundamentally changes
+
+scenario_name = Case 2 - Spiral to Gaussian Mixture
+source_type = spiral
+target_type = gaussian_mixture
+
+# Distribution parameters
+n_particles = 1000
+source_turns = 2.0
+source_noise = 0.01
+target_n_clusters = 4
+target_std = 0.15
+
+# Sinkhorn parameters
+epsilon = 0.05
+max_iter = 2000
+tol = 1e-9
+
+# Output settings
+n_cores = 0
+output_dir = outputs
+save_netcdf = true
+save_csv = true
+save_animation = true
+save_diagnostics = true
+
+# Animation settings
+n_frames = 120
+fps = 30
+dpi = 150
+colormap = plasma
+marker_size = 8
+alpha = 0.8
+
+# Random seed for reproducibility
+seed = 42

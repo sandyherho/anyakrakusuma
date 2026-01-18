@@ -1,0 +1,41 @@
+# Case 1: Circle to Circle (Concentric Scaling)
+# ==============================================
+# Baseline test case demonstrating pure radial transport
+# Source: Circle radius 1.0
+# Target: Circle radius 2.0
+# Insight: Measures optimal transport cost for uniform scaling
+
+scenario_name = Case 1 - Circle to Circle
+source_type = circle
+target_type = circle
+
+# Distribution parameters
+n_particles = 1000
+source_radius = 1.0
+source_noise = 0.0
+target_radius = 2.0
+target_noise = 0.0
+
+# Sinkhorn parameters
+epsilon = 0.02
+max_iter = 2000
+tol = 1e-9
+
+# Output settings
+n_cores = 0
+output_dir = outputs
+save_netcdf = true
+save_csv = true
+save_animation = true
+save_diagnostics = true
+
+# Animation settings
+n_frames = 120
+fps = 30
+dpi = 150
+colormap = viridis
+marker_size = 8
+alpha = 0.8
+
+# Random seed for reproducibility
+seed = 42
