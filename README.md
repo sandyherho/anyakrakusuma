@@ -4,7 +4,6 @@
 [![PyPI](https://img.shields.io/pypi/v/anyakrakusuma-eot-solver.svg)](https://pypi.org/project/anyakrakusuma-eot-solver/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white)](https://scipy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
@@ -262,6 +261,7 @@ If you use this software in your study, please cite:
 - Sandy H. S. Herho
 - Faiz R. Fajary
 - Nurjanna J. Trilaksono
+- Rusmawan Suwarman
 - Dasapta E. Irawan
 
 ## License
