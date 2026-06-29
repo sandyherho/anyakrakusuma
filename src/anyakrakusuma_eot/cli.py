@@ -28,7 +28,7 @@ def print_header():
     print("\n" + "=" * 70)
     print(" " * 10 + "anyakrakusuma: 2D Schrödinger Bridge Solver")
     print(" " * 15 + "Entropic Optimal Transport")
-    print(" " * 22 + "Version 0.0.1")
+    print(" " * 22 + "Version 0.0.2")
     print("=" * 70)
     print("\n  Log-Domain Sinkhorn-Knopp Algorithm")
     print("  Numba JIT Acceleration + Parallel Processing")
