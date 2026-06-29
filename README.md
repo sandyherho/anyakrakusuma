@@ -257,20 +257,21 @@ If you use this software in your study, please cite:
 ```bibtex
 @software{herho2026anyakrakusuma,
   title   = {{anyakrakusuma: 2D Schrödinger Bridge Solver via Entropic Optimal Transport}},
-  author  = {Herho, Sandy H. S. and Anwar, Iwan P. and Khadami, Faruq and Suwarman, Rusmawan and Irawan, Dasapta E.},
+  author  = {Herho, Sandy H. S. and Biosa, Sito F. and Jatmiko, Agus W.  and Suwarman, Rusmawan and Irawan, Dasapta E. and Puradimaja, Deny J.},
   year    = {2026},
-  version = {0.0.1},
+  version = {0.0.2},
   url     = {https://github.com/sandyherho/anyakrakusuma}
 }
 ```
 
 ## Authors
 
-- Sandy H. S. Herho (sandy.herho@ronininstitute.org)
-- Iwan P. Anwar
-- Faruq Khadami
+- Sandy H. S. Herho (sandy.herho@email.ucr.edu)
+- Sito F. Biosa
+- Agus W. Jatmiko
 - Rusmawan Suwarman
 - Dasapta E. Irawan
+- Deny J. Puradimaja
 
 ## License
 

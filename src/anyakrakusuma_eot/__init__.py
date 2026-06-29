@@ -5,8 +5,8 @@ A high-performance Python solver for the Schrödinger Bridge Problem using
 log-domain Sinkhorn-Knopp algorithm with Numba acceleration.
 """
 
-__version__ = "0.0.1"
-__author__ = "Sandy H. S. Herho, Iwan P. Anwar, Faruq Khadami, Rusmawan Suwarman, Dasapta E. Irawan"
+__version__ = "0.0.2"
+__author__ = "Sandy H. S. Herho, Sito F. Biosa, Agus W. Jatmiko, Rusmawan Suwarman, Dasapta E. Irawan, Deny J. Puradimaja"
 __license__ = "MIT"
 
 from .core.solver import SchrodingerBridgeSolver

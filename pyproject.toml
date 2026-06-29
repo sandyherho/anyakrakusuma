@@ -4,10 +4,11 @@ version = "0.0.1"
 description = "2D Schrödinger Bridge Solver via Entropic Optimal Transport with Log-Domain Sinkhorn"
 authors = [
     "Sandy H. S. Herho",
-    "Iwan P. Anwar",
-    "Faruq Khadami",
+    "Sito F. Biosa",
+    "Agus W. Jatmiko",
     "Rusmawan Suwarman",
-    "Dasapta E. Irawan"
+    "Dasapta E. Irawan",
+    "Deny J. Puradimaja"
 ]
 license = "MIT"
 readme = "README.md"
