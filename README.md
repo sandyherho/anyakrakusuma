@@ -232,7 +232,7 @@ print(f"Transport cost: {result['cost']:.6f}")
 print(f"Converged: {result['converged']}")
 ```
 
-## Test Cases (Comparable)
+## Test Cases
 
 All test cases use the same number of particles (n=1000) and similar computational settings to enable direct comparison of transport characteristics.
 
@@ -255,11 +255,11 @@ All test cases use the same number of particles (n=1000) and similar computation
 If you use this software in your study, please cite:
 
 ```bibtex
-@software{herho2026anyakrakusuma,
+@software{Irawan2026anyakrakusuma,
   title   = {{anyakrakusuma: 2D Schrödinger Bridge Solver via Entropic Optimal Transport}},
-  author  = {Irawan, Dasapta E. and Herho, Sandy H. S and Jatmiko, Agus W. and Pamumpuni, Astyka and Kartiko, Rendy D. and Suwarman, Rusmawan},
+  author  = {Irawan, Dasapta E. and Herho, Sandy H. S and Jatmiko, Agus W. and Riawan, Edi and Pamumpuni, Astyka and Kartiko, Rendy D. and Suwarman, Rusmawan and Puradimaja, Deny J.},
   year    = {2026},
-  version = {0.0.3},
+  version = {0.0.4},
   url     = {https://github.com/sandyherho/anyakrakusuma}
 }
 ```
@@ -269,9 +269,11 @@ If you use this software in your study, please cite:
 - Dasapta E. Irawan
 - Sandy H. S. Herho (sandy.herho@email.ucr.edu)
 - Agus W. Jatmiko
+- Edi Riawan
 - Astyka Pamumpuni
 - Rendy D. Kartiko
 - Rusmawan Suwarman
+- Deny J. Puradimaja
 
 ## License
 

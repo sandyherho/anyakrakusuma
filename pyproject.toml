@@ -1,14 +1,16 @@
 [tool.poetry]
 name = "anyakrakusuma"
-version = "0.0.3"
+version = "0.0.4"
 description = "2D Schrödinger Bridge Solver via Entropic Optimal Transport with Log-Domain Sinkhorn"
 authors = [
     "Dasapta E. Irawan",
     "Sandy H. S. Herho",
     "Agus W. Jatmiko",
+    "Edi Riawan",
     "Astyka Pamumpuni",
     "Rendy D. Kartiko",
-    "Rusmawan Suwarman"
+    "Rusmawan Suwarman",
+    "Deny J. Puradimaja"
 ]
 license = "MIT"
 readme = "README.md"
