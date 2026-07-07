@@ -255,19 +255,19 @@ All test cases use the same number of particles (n=1000) and similar computation
 If you use this software in your study, please cite:
 
 ```bibtex
-@software{Irawan2026anyakrakusuma,
+@software{Herho2026anyakrakusuma,
   title   = {{anyakrakusuma: 2D Schrödinger Bridge Solver via Entropic Optimal Transport}},
-  author  = {Irawan, Dasapta E. and Herho, Sandy H. S and Jatmiko, Agus W. and Riawan, Edi and Pamumpuni, Astyka and Kartiko, Rendy D. and Suwarman, Rusmawan and Puradimaja, Deny J.},
+  author  = {Herho, Sandy H. S and Irawan, Dasapta E.  and Jatmiko, Agus W. and Riawan, Edi and Pamumpuni, Astyka and Kartiko, Rendy D. and Suwarman, Rusmawan and Puradimaja, Deny J.},
   year    = {2026},
-  version = {0.0.4},
+  version = {0.0.5},
   url     = {https://github.com/sandyherho/anyakrakusuma}
 }
 ```
 
 ## Authors
 
-- Dasapta E. Irawan
 - Sandy H. S. Herho (sandy.herho@email.ucr.edu)
+- Dasapta E. Irawan
 - Agus W. Jatmiko
 - Edi Riawan
 - Astyka Pamumpuni
