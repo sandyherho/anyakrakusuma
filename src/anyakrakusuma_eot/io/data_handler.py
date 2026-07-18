@@ -172,7 +172,7 @@ class DataHandler:
             # Provenance
             nc.created = datetime.now().isoformat()
             nc.software = "anyakrakusuma"
-            nc.version = "0.0.1"
+            nc.version = "0.0.6"
             nc.method = "log_domain_sinkhorn"
             nc.method_description = "Entropic Optimal Transport via log-domain Sinkhorn-Knopp"
             

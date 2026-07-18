@@ -1,11 +1,13 @@
 [tool.poetry]
 name = "anyakrakusuma"
-version = "0.0.5"
+version = "0.0.6"
 description = "2D Schrödinger Bridge Solver via Entropic Optimal Transport with Log-Domain Sinkhorn"
 authors = [
     "Sandy H. S. Herho",
     "Dasapta E. Irawan",    
     "Agus W. Jatmiko",
+    "Sito F. Biosa",
+    "Candrasa S. Dharma",
     "Edi Riawan",
     "Astyka Pamumpuni",
     "Rendy D. Kartiko",
